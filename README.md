@@ -4,6 +4,7 @@
 
 - The Missing Semester [Course](https://missing.csail.mit.edu/)
 - The Architecture of Open Source Applications [Book](https://aosabook.org/en/)
+- Build Your Own X [Repo](https://github.com/codecrafters-io/build-your-own-x)
 
 ## Database Management Systems
 
@@ -12,6 +13,7 @@
 
 ## Operating Systems
 
+- OS: Three Easy Pieces [Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - Beej's Guide to Interprocess Communication [Book](https://beej.us/guide/bgipc/)
 - Writing an operating system kernel from scratch (in *Zig*) [Article](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
 
