@@ -36,3 +36,7 @@
 ## Distributed Systems
 
 - Distributed Systems - MIT [Playlist](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+
+## Information and System Security
+
+- Information & System Security - IITKGP [Slides](./material/infosec/)
