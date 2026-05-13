@@ -5,6 +5,13 @@
 - The Missing Semester [Course](https://missing.csail.mit.edu/)
 - The Architecture of Open Source Applications [Book](https://aosabook.org/en/)
 - Build Your Own X [Repo](https://github.com/codecrafters-io/build-your-own-x)
+- Designing Data-Intensive Applications [Book](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- What Happens When [Repo](https://github.com/alex/what-happens-when)
+
+## Development
+
+- The Pragmatic Programming [Book](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/)
+- The Twelve-Factor App [Website](https://12factor.net/)
 
 ## C++
 
@@ -18,7 +25,6 @@
 ## Database Management Systems
 
 - Database Systems Concepts [Slides](https://www.db-book.com/slides-dir/index.html)
-- Designing Data-Intensive Applications [Book](https://unidel.edu.ng/focelibrary/books/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems%20by%20Martin%20Kleppmann%20(z-lib.org).pdf)
 - Building a LSM-Tree Storage Engine (in *Rust*) [Course](https://skyzh.github.io/mini-lsm/)
 
 ## Operating Systems
