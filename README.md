@@ -5,13 +5,14 @@
 - The Missing Semester [Course](https://missing.csail.mit.edu/)
 - The Architecture of Open Source Applications [Book](https://aosabook.org/en/)
 - Build Your Own X [Repo](https://github.com/codecrafters-io/build-your-own-x)
-- Designing Data-Intensive Applications [Book](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- Designing Data-Intensive Applications [Book](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) [PDF](./books/designing-data-intensive-applications.pdf)
 - What Happens When [Repo](https://github.com/alex/what-happens-when)
 
 ## Development
 
-- The Pragmatic Programming [Book](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/)
+- The Pragmatic Programmer [Book](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/) [PDF](./books/the-pragmatic-programmer.pdf)
 - The Twelve-Factor App [Website](https://12factor.net/)
+- 500 Lines or Less [Book](https://aosabook.org/en/)
 
 ## C++
 
